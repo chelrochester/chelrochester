@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chelrochester
 - 👀 I’m interested in learning anything and everything
-- 🌱 I’m currently learning for the A+ along with fundamentals of coding
+- 🌱 I’m currently learning A+ along with fundamentals of coding
 - 📫 How to reach me: chel.rochester@gmail.com
 
 
