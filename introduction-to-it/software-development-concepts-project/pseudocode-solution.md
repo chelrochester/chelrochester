@@ -1,5 +1,6 @@
 ## Pseudocode Solution
 
+```text
 Input text "Great Gatsby, Moby Dick, Frankenstein, Dracula, Parable of the Sower"
 Input pattern "Dracula"
 If entire tet hasn't been searched:
